@@ -4,6 +4,6 @@
   "description": "Mock API for Dermaself take-home challenge",
   "private": true,
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
