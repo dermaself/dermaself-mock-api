@@ -1,1 +1,5 @@
-# dermaself-mock-api
+# Dermaself Mock API
+
+Public mock endpoint for the take-home challenge.
+
+## Endpoint
